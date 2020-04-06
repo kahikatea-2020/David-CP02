@@ -1,0 +1,25 @@
+{
+  "name": "david-cp02",
+  "version": "0.1.0",
+  "description": "Use npm to manage library dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kahikatea-2020/David-CP02.git"
+  },
+  "keywords": [
+    "david-cp02"
+  ],
+  "author": "David",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kahikatea-2020/David-CP02/issues"
+  },
+  "homepage": "https://github.com/kahikatea-2020/David-CP02#readme",
+  "dependencies": {
+    "cowsay": "^1.4.0"
+  }
+}
